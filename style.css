@@ -1,0 +1,21 @@
+.country-card{
+
+    width: 20%;
+    margin: 80px 20px;
+    box-shadow: 1px 1px 15px 1px;
+}
+.country-card img {
+    width: 100%;
+}
+
+.card-container{
+    display: flex;
+    flex-direction: row;
+ justify-content: center;
+ flex-wrap: wrap;
+
+}
+
+.card-info{
+    padding: 10px;
+}
